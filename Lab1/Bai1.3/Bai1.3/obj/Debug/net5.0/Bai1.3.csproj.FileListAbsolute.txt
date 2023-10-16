@@ -1,0 +1,16 @@
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\bin\Debug\net5.0\Bai1.3.exe
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\bin\Debug\net5.0\Bai1.3.deps.json
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\bin\Debug\net5.0\Bai1.3.runtimeconfig.json
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\bin\Debug\net5.0\Bai1.3.runtimeconfig.dev.json
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\bin\Debug\net5.0\Bai1.3.dll
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\bin\Debug\net5.0\ref\Bai1.3.dll
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\bin\Debug\net5.0\Bai1.3.pdb
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\obj\Debug\net5.0\Bai1.3.csproj.AssemblyReference.cache
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\obj\Debug\net5.0\Bai1.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\obj\Debug\net5.0\Bai1.3.AssemblyInfoInputs.cache
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\obj\Debug\net5.0\Bai1.3.AssemblyInfo.cs
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\obj\Debug\net5.0\Bai1.3.csproj.CoreCompileInputs.cache
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\obj\Debug\net5.0\Bai1.3.dll
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\obj\Debug\net5.0\ref\Bai1.3.dll
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\obj\Debug\net5.0\Bai1.3.pdb
+C:\Users\FShop\Documents\Tailieumonhoc\Laptrinhtrucquan\thuchanh\Lab1\Bai1.3\Bai1.3\obj\Debug\net5.0\Bai1.3.genruntimeconfig.cache
